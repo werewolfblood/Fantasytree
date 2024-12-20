@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "fantasytreemod:mithril",
+    "fantasytreemod:evil_leaves",
+    "fantasytreemod:crystal_leaves",
+    "fantasytreemod:silver_leaves",
+    "fantasytreemod:mithril_leaves"
+  ]
+}
